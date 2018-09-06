@@ -19,7 +19,7 @@ body {
   border-radius: 0 25px 0 25px;
   box-shadow: 5px 5px 15px #555,
               -5px -5px 15px #555;
-  color: rgb(4, 226, 226);
+  color: rgb(209, 106, 47);
 }
 #time {
   width: 100%;
@@ -60,7 +60,7 @@ body {
 }
 #date #day p {
   margin: 0;
-  border: 1px solid rgb(0, 255, 255);
+  border: 1px solid rgb(255, 245, 234);
   padding: 4px 0;
   text-align: center;
 }
