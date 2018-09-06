@@ -1,4 +1,4 @@
-// Created by Moses Promise
+// Created by Moses Promise...
 
 window.onload = function() {
   loadClock();
